@@ -1,0 +1,2 @@
+GET http://localhost:8082/users/659cf23598a9bde5ce2808a3
+authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNhdmtvc3RvdWRhc0BnbWFpbC5jb20iLCJleHAiOjE3MDQ4MzM5MDQsInVzZXJJZCI6IjY1OWJmNGI1MDEzZmQ4OGYwODQxYTFjOSJ9.n0TbtownQnE1jequiV-lay-bqKfsl6n5pV60d88AU38

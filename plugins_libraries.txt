@@ -1,0 +1,6 @@
+1. go get -u github.com/gin-gonic/gin
+2. go get go.mongodb.org/mongo-driver/mongo
+3. go get github.com/golang-jwt/jwt
+4. go get github.com/joho/godotenv
+5. go get -u github.com/theckman/go-securerandom
+6. go get github.com/skip2/go-qrcode

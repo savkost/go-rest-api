@@ -1,0 +1,10 @@
+PATCH  http://localhost:8082/users/659e67f6c9dcbdb0aa43b1e4
+content-type: application/json
+authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNhdmtvc3RvdWRhc0BnbWFpbC5jb20iLCJleHAiOjE3MDQ4ODMyMTQsInVzZXJJZCI6IjY1OWU1MWRhOGQwY2Q4YjA2MzRhZDRhMCJ9.bChU51xvUrket3Cvf0489cmyfrGoXgDpRwO0IZzH00Y
+
+// Body to send
+{
+    "firstName": "Sav",
+    "lastName": "Kost",
+    "email": "example19@gmail.com"
+}

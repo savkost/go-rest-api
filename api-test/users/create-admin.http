@@ -1,0 +1,12 @@
+POST http://localhost:8082/users/createAdmin
+authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNhdmtvc3RvdWRhc0BnbWFpbC5jb20iLCJleHAiOjE3MDUwNTYxNTIsInVzZXJJZCI6IjY1YTBmNjE4OTg5NDUzMTY2NjAwYjQ1YiJ9.xl-TvORyOqh7wxDgng8WA83fwQ39xeCJaHeyCd6l_Hs
+content-type: application/json
+
+// User Body
+{
+    "firstName": "First Test 4",
+    "lastName": "Last Test 4",
+    "role": "admin",
+    "email": "exampleAdmin1@gmail.com",
+    "password": "test123"
+}

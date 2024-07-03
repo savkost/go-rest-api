@@ -1,0 +1,11 @@
+PATCH  http://localhost:8082/categoriesLicenses/65a251c101cef849fc779521
+content-type: application/json
+authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNhdmtvc3RvdWRhc0BnbWFpbC5jb20iLCJleHAiOjE3MDUxNDEzODAsInVzZXJJZCI6IjY1YTBmNjE4OTg5NDUzMTY2NjAwYjQ1YiJ9._jg5PUM-HB4GRU38cY1_PQDju1kwcqcSdP36MZAbUEs
+
+// Body to send
+{
+    "title": "Silver",
+    "priceEurosMonthly": 100,
+    "priceEurosThreeMonths": 150,
+    "textsQntAllowed": 2000
+}

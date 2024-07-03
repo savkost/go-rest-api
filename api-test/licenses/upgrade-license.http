@@ -1,0 +1,13 @@
+PATCH  http://localhost:8082/licenses/upgrade/65a8d4c826ced51a9663cc02
+content-type: application/json
+authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImV4YW1wbGUxQGdtYWlsLmNvbSIsImV4cCI6MTcwNTU2OTY2MiwidXNlcklkIjoiNjVhMGY4MWQ2OWQ0YWYzYTQ2MDdlMDNlIn0.6C4y_vMMGckHzAehbf53ULnBPUdEMiA608dxCPxh8Vc
+
+// Body to send
+{
+    "expiration_dt": "2024-04-18 19:24:47",
+    "begin_dt": "2024-01-18 09:35:36",
+    "timeSpanType": 3,
+    "categoryId": "65a251c101cef849fc779521",
+    "categoryType": "1",
+    "categoryTitle": "Silver"
+}

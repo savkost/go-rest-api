@@ -1,0 +1,10 @@
+POST http://localhost:8082/register
+content-type: application/json
+
+// User Body
+{
+    "firstName": "First Test 6",
+    "lastName": "Last Test 6",
+    "email": "example6@gmail.com",
+    "password": "test123"
+}

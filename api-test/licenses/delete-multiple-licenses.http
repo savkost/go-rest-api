@@ -1,0 +1,10 @@
+POST http://localhost:8082/licenses/deleteMultiple
+authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNhdmtvc3RvdWRhc0BnbWFpbC5jb20iLCJleHAiOjE3MDUzMjQzOTQsInVzZXJJZCI6IjY1YTBmNjE4OTg5NDUzMTY2NjAwYjQ1YiJ9.8G8iAB81QZSClXQQ9OcLl5ZhyqmxNIpBSUKcSctCM9U
+
+// POST BODY
+{
+    "listOfIds": [
+        "65a51a86915d4b8a2efa3d45",
+        "65a51aba915d4b8a2efa3d46"
+    ]
+}

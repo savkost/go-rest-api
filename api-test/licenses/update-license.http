@@ -1,0 +1,9 @@
+PATCH  http://localhost:8082/licenses/65a4eb5a1262b97a6c2175df
+content-type: application/json
+authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImV4YW1wbGUxQGdtYWlsLmNvbSIsImV4cCI6MTcwNTUxMDM0NiwidXNlcklkIjoiNjVhMGY4MWQ2OWQ0YWYzYTQ2MDdlMDNlIn0.61YC13tmmlPhNlMB8FRv0PqsTWASH_oUT1VeL9ScsR4
+
+// Body to send
+{
+    "expiration_dt": "2024-07-15 13:24:47",
+    "timeSpanType": 6
+}

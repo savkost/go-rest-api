@@ -1,0 +1,15 @@
+POST http://localhost:8082/licenses
+authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImV4YW1wbGU1QGdtYWlsLmNvbSIsImV4cCI6MTcwNTU3MTI4OSwidXNlcklkIjoiNjVhOGQ3NTBmMDBjZjAwMDc4MTZlODQxIn0.IAW20Nv0Cydt8EGAaGC_D__56tbphCBZ6JO4rjJDDkw
+content-type: application/json
+
+// License Body
+{
+    "expiration_dt": "2024-04-18 19:24:47",
+    "userHolderId": "65a8d750f00cf0007816e841",
+    "userFullName": "First Test 5 Last Test 5",
+    "categoryId": "65a2544e38dfae65bdb3e924",
+    "categoryTitle": "Bronze",
+    "categoryType": "0",
+    "timeSpanType": 3,
+    "comments": "Test 5 License"
+}
