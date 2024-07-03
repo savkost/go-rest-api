@@ -10,15 +10,15 @@ If you find the plugin helpful, please consider [Supporting the project](https:/
 
 - [Features](#features)
 - [Getting Started](#getting-started)
-- [Authentication, Authorization](#auth_authorize)
-- [Generics for Models API](#generic_api_models)
-- [MongoDB as Data Storage](#mongdb)
-- [CRUD and Various API Operations](#crud_and_actions)
-- [Encryption Methods and Hashing](#encr_hashing)
-- [Paging, Filtering, Max Rows](#paging_filter_rows)
+- [Authentication, Authorization](#auth-authorize)
+- [Generics for Models API](#generic-api-models)
+- [MongoDB as Data Storage](#mongo-db)
+- [CRUD and Various API Operations](#crud-and-actions)
+- [Encryption Methods and Hashing](#encr-hashing)
+- [Paging, Filtering, Max Rows](#paging-filter-rows)
 - [QRCode Generation](#qrcode-license)
-- [Global Error Handling](#glob_error_handling)
-- [API Testing](#api_testing)
+- [Global Error Handling](#glob-error-handling)
+- [API Testing](#api-testing)
 - [Further Help, Links, LinkedIn](#links)
 
 ## Features
